@@ -1,0 +1,16 @@
+mkdir
+node --version
+npm --version
+
+npm create react-app luffy
+cd luffy
+npm start
+
+
+
+aws-amplify   in console
+host new web-app
+github
+authorize github,select repo, next
+allo - nextsave and deploy
+click the link

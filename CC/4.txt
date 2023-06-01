@@ -1,0 +1,14 @@
+create 2 vms with the iso file
+configure the network 
+change the vm network 
+
+vagrant vagrant
+
+ifconfig
+ping
+
+touch transfer.txt
+nano transfer.txt
+cat transfer.txt
+
+scp transfer.txt vagrant@10.0.0.5:/home/vagrant

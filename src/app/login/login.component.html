@@ -1,0 +1,7 @@
+<form #studentForm="ngForm" (ngSubmit)="RegisterStudent(studentForm)">
+    <div class="form-group">
+        <label for="fName">First Name</label>
+        <input type="text" id="fName" name="fName" ngModel>
+    </div>
+    <button type="submit">Submit</button>
+</form>

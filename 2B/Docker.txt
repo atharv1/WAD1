@@ -1,0 +1,11 @@
+a.js file -
+console.log("Hello World");
+
+Dockerfile - 
+FROM node:alpine
+COPY . /cd
+CMD node /cd/a.js
+
+docker build -t xyz .
+docker image ls
+docker run xyz

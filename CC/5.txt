@@ -1,0 +1,1 @@
+console -> EC2 -> Launch Instance -> Name("One Piece") -> Ubuntu Instance(select free tier) -> key:pair (generate new key pair) -> config ram -> no of inst=1 -> launch

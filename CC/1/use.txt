@@ -1,0 +1,7 @@
+gcloud init
+    reini config / ini config
+    acc to login :- ath1@gm.com
+
+create test.py file and app.yml file
+
+py google-cloud-sdk\bin\sev_appserver.py "folder-path"
